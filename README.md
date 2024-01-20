@@ -30,4 +30,4 @@ Welcome to QuickJot, your go-to companion for seamless note-taking and organizat
 - **User-Friendly Design:** With a clean and intuitive interface, even first-time users can navigate the app effortlessly.
 - **Secure and Reliable:** Trust in the reliability of Firebase for secure data storage and authentication, giving you peace of mind.
 
-Experience the future of note-taking with FlutterNotePro. Download now and embark on a journey of productivity and organization!
+Experience the future of note-taking with QuickJot. Download now and embark on a journey of productivity and organization!
